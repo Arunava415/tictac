@@ -60,7 +60,7 @@ boxes.forEach((box)=>{
     };
     
    const showWinner=(winner) =>{
-    msg.innerText=`Congratulations,The one and only motherfucker Winner is 💦 ${winner}`;
+    msg.innerText=`Congratulations,The winner is 💦 ${winner}`;
     msgContainer.classList.remove("hide");
 
 
